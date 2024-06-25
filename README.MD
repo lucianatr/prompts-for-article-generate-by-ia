@@ -24,22 +24,22 @@ ChatGPT：
 |   Ação    | prompt                                                                                                                                                                                                                                                          |
 | :------:  | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  título   | Crie 10 headlines para nomes de artigos sobre o assunto SpringBoot                                                                                                                                                                                              |
-|  conteúdo | Comporte-se como um autor de artigos tech back-end e escreva o artigo atendendo as regras abaixo:	                                                                                                                                                              |
-|	      No máximo 5 linhas por blocos de explicação                                                                                                                                                                                                                     |
-|	      Me explique de maneira informal, em uma linguagem simples                                                                                                                                                                                                       |
-|	      Os blocos que serão criados estão abaixo:                                                                                                                                                                                                                       |
-|	        Introdução                                                                                                                                                                                                                                                    |
-|		O que é SpringBoot?                                                                 |                                                                                                                                                       
-|		Quando usar SpringBoot?                                                                                                                                                                                                                                       |
-|		Porque usar SpringBoot?                                                                                                                                                                                                                                       |
-|		Conclusão                                                                                                                                                                                                                                                     |
+|  conteúdo | Comporte-se como um autor de artigos tech back-end e escreva o artigo atendendo as regras abaixo:	                                                                                                                                                              
+	      No máximo 5 linhas por blocos de explicação                                                                                                                                                                                                                     
+	      Me explique de maneira informal, em uma linguagem simples                                                                                                                                                                                                       
+	      Os blocos que serão criados estão abaixo:                                                                                                                                                                                                                       
+	        Introdução                                                                                                                                                                                                                                                    
+			O que é SpringBoot?                                                                                                                                                                                                                        
+			Quando usar SpringBoot?                                                                                                                                                                                                                                       
+			Porque usar SpringBoot?                                                                                                                                                                                                                                       
+			Conclusão                                                                                                                                                                                                                                                     |
 
 
 Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram:
 
-• Spring formato horizontal
+	Spring formato horizontal
 
 
 ## ✨ Features
