@@ -1,3 +1,10 @@
+<p align="center">
+  <img 
+    src=".github/assets/artigo.png"
+    width="400"  
+  />
+</p>
+
 # Projeto artigo técnico gerado por I.A.s
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
@@ -17,16 +24,15 @@ ChatGPT：
 |   Ação    | prompt                                                                                                                                                                                                                                                          |
 | :------:  | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  título   | Crie 10 headlines para nomes de artigos sobre o assunto SpringBoot                                                                                                                                                                                              |
-|  conteúdo | Comporte-se como um autor de artigos tech back-end e escreva o artigo atendendo as regras abaixo:	
-				No máximo 5 linhas por blocos de explicação
-				Me explique de maneira informal, em uma linguagem simples
-				Os blocos que serão criados estão abaixo:
-					 Introdução
-					 O que é SpringBoot?
-					 Quando usar SpringBoot?
-					 Porque usar SpringBoot?
-					 Cite exemplos de código usando SpringBoot 
-					 Conclusão                                                                                                                                                                                                                                               |
+|  conteúdo | Comporte-se como um autor de artigos tech back-end e escreva o artigo atendendo as regras abaixo:	                                                                                                                                                              |
+|	      No máximo 5 linhas por blocos de explicação                                                                                                                                                                                                                     |
+|	      Me explique de maneira informal, em uma linguagem simples                                                                                                                                                                                                       |
+|	      Os blocos que serão criados estão abaixo:                                                                                                                                                                                                                       |
+|	        Introdução                                                                                                                                                                                                                                                    |
+|		O que é SpringBoot?                                                                 |                                                                                                                                                       
+|		Quando usar SpringBoot?                                                                                                                                                                                                                                       |
+|		Porque usar SpringBoot?                                                                                                                                                                                                                                       |
+|		Conclusão                                                                                                                                                                                                                                                     |
 
 
 Lexica.art：
@@ -49,8 +55,8 @@ Lexica.art：
 
 <p>
      <p>Luciana Moreira
-        <a href="www.github.com/lucianatr">GitHub</a>
-        <a href="www.linkedin.com/in/luciana-fernandes-moreira-75844152/">LinkedIn</a>
+        <a href="https://github.com/lucianatr/">GitHub</a>
+        <a href="https://www.linkedin.com/in/luciana-fernandes-moreira-75844152/">LinkedIn</a>
     </p>
 </p>
 
